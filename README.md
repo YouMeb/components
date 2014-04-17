@@ -5,11 +5,11 @@ components
 
 ### 純 JS
 
-* [upload](YouMeb/upload) - 檔案上傳元件
-* [upload-button](YouMeb/upload-button) - 檔案上傳按鈕（包含進度顯示）
-* [inline-style](poying/inline-style) - css 設定
-* [inline-style-auto-prefix](poying/inline-style-auto-prefix) - inline-style plugin
+* [upload](http://github.com/YouMeb/upload) - 檔案上傳元件
+* [upload-button](http://github.com/YouMeb/upload-button) - 檔案上傳按鈕（包含進度顯示）
+* [inline-style](http://github.com/poying/inline-style) - css 設定
+* [inline-style-auto-prefix](http://github.com/poying/inline-style-auto-prefix) - inline-style plugin
 
 ### Reactive（不適合搭配 Backbone）
 
-* [toggle](YouMeb/toggle)
+* [toggle](http://github.com/YouMeb/toggle)
